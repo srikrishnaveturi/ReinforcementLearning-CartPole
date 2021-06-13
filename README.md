@@ -8,3 +8,4 @@ The episode ends when the pole is more than 15 degrees from vertical,
 or the cart moves more than 2.4 units from the center."
 
 Demo Video - 
+![](ezgif.com-gif-maker.gif)
